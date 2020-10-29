@@ -1,4 +1,6 @@
 # Arduino
+import processing.serial.*;
+
 int ledPin = 9;
 boolean estadoLed = false;
 
